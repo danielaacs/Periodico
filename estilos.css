@@ -1,0 +1,15 @@
+header {
+    text-align: center;
+}
+.recuadro1 {
+    border: 2px; color: rgb(1, 1, 1);
+    background-color: cornflowerblue;
+    padding: 10px;
+    width: 300px;
+}
+.recuadro2 {
+    border: 2px; color: rgb(1, 1, 1);
+    background-color: cornflowerblue;
+    padding: 10px;
+    width: 300px;
+}
